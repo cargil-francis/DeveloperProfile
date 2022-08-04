@@ -1,5 +1,6 @@
 body{
-background-color:#90ee905c!important;
+background-color:#3b12e05c !important;
+background-image: url("raindew.jpg");
 }
 
 #profile-wrapper{
@@ -16,13 +17,14 @@ margin-right:auto;
 
 
 .social-links ul, li{
+
 	list-style-type:none;
 	display: inline-block;
 }
 
 .social{
-	width:20px;
-	height: 20px;
+	width:25px;
+	height: 25px;
 }
 
 #stackoverflow{
